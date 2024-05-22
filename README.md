@@ -1,7 +1,5 @@
 # AzureCLI-CloudUploader
 
-```markdown
-
 This script uploads files to Azure Blob Storage using a service principal for authentication. It also allows generating shareable links for the uploaded files.
 
 ## Prerequisites
@@ -74,5 +72,5 @@ After uploading the files, the script will prompt you to generate a shareable li
 - Ensure that the Azure CLI is installed and properly configured on your system.
 - Check your network connection and permissions if the file upload fails.
 
-
-```
+## Contributions
+- Contributions are welcome! If you have suggestions for improvement or have identified a bug, feel free to open an issue or submit a pull request.
