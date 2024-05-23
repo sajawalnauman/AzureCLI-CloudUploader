@@ -42,13 +42,13 @@ This script uploads files to Azure Blob Storage using a service principal for au
 To upload files to Azure Blob Storage, run the script with the file paths as arguments:
 
 ```bash
-./uploaderscript.sh <file_path_1> <file_path_2> ...
+./uploadfilescript.sh <file_path_1> <file_path_2> ...
 ```
 
 ### Example
 
 ```bash
-./uploaderscript.sh file1.txt file2.jpg
+./uploadfilescript.sh file1.txt file2.jpg
 ```
 
 ### Generating Shareable Links
